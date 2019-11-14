@@ -2,10 +2,6 @@
 ## Description 
 For this project, we train a pair of agents to play tennis.
 
-<p align="center">
-	<img src="images/tennis_gif.gif" width=50% height=50%>
-</p>
-
 ## Problem Statement 
 A reward of +0.1 is provided for each step that one of the two agent hits the ball over the net.
 A reward of -0.01 is provided an agent lets a nall hit the ground or hits the ball out of bounds.
