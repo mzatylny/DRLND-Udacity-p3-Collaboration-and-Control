@@ -1,4 +1,3 @@
-
 # Project 3: Multi-Agent Collaboration & Competition 
 #### Udacity Deep Reinforcement Learning Nanodegree
 
@@ -177,7 +176,7 @@ the performance goal is an average reward of at least +0.5 over 100 episodes, ta
 
 The graph below shows the final training results. The best-performing agents were able to solve the environment in 1111 episodes with a moving average of 0.549. The complete set of results and steps can be found in this notebook.
 
-![enter image description here](https://lh3.googleusercontent.com/x378k8gvRoiSbeiqw1_feWdEBhaChw_VoPFrvgmY20fXzFxg0JI3qGRvGCPZcXoVfaTskAh_Bc4e)
+<img src="./img/plot_score.png" width="400" height="300">
 
 
 ## Future Improvements
