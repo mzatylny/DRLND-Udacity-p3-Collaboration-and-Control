@@ -15,13 +15,9 @@ episodes.
 
 ## Files 
 - `Tennis.ipynb`: Notebook used to control and train the agent 
-- `DDPGAgents.py`: Create an DDPGAgents class that interacts with and learns from the environment 
-- `ReplayBuffer.py`: Replay Buffer class to store the experiences
-- `OUNoise.py`: Ornstein Uhlenbeck noise for the actor to improve exploration
-- `model.py`: Actor and Critic classes  
-- `config.json`: Configuration file to store variables and paths
-- `utils.py`: Helper functions 
-- `report.pdf`: Technical report
+- `agent.py`: Create an Agent that interacts with and learns from the environment 
+- `model.py`: Network architecture 
+- `report.md`: Technical report
 
 ## Dependencies
 To be able to run this code, you will need an environment with Python 3 and 
